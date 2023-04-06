@@ -1,0 +1,15 @@
+C:\Users\38985141880\Desktop\notas\bin\Debug\net7.0\notas.exe
+C:\Users\38985141880\Desktop\notas\bin\Debug\net7.0\notas.deps.json
+C:\Users\38985141880\Desktop\notas\bin\Debug\net7.0\notas.runtimeconfig.json
+C:\Users\38985141880\Desktop\notas\bin\Debug\net7.0\notas.dll
+C:\Users\38985141880\Desktop\notas\bin\Debug\net7.0\notas.pdb
+C:\Users\38985141880\Desktop\notas\obj\Debug\net7.0\notas.csproj.AssemblyReference.cache
+C:\Users\38985141880\Desktop\notas\obj\Debug\net7.0\notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38985141880\Desktop\notas\obj\Debug\net7.0\notas.AssemblyInfoInputs.cache
+C:\Users\38985141880\Desktop\notas\obj\Debug\net7.0\notas.AssemblyInfo.cs
+C:\Users\38985141880\Desktop\notas\obj\Debug\net7.0\notas.csproj.CoreCompileInputs.cache
+C:\Users\38985141880\Desktop\notas\obj\Debug\net7.0\notas.dll
+C:\Users\38985141880\Desktop\notas\obj\Debug\net7.0\refint\notas.dll
+C:\Users\38985141880\Desktop\notas\obj\Debug\net7.0\notas.pdb
+C:\Users\38985141880\Desktop\notas\obj\Debug\net7.0\notas.genruntimeconfig.cache
+C:\Users\38985141880\Desktop\notas\obj\Debug\net7.0\ref\notas.dll

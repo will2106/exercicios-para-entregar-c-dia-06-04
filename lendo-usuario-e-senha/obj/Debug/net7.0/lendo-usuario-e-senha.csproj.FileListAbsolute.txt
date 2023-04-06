@@ -1,0 +1,15 @@
+C:\Users\38985141880\Desktop\lendo-usuario-e-senha\bin\Debug\net7.0\lendo-usuario-e-senha.exe
+C:\Users\38985141880\Desktop\lendo-usuario-e-senha\bin\Debug\net7.0\lendo-usuario-e-senha.deps.json
+C:\Users\38985141880\Desktop\lendo-usuario-e-senha\bin\Debug\net7.0\lendo-usuario-e-senha.runtimeconfig.json
+C:\Users\38985141880\Desktop\lendo-usuario-e-senha\bin\Debug\net7.0\lendo-usuario-e-senha.dll
+C:\Users\38985141880\Desktop\lendo-usuario-e-senha\bin\Debug\net7.0\lendo-usuario-e-senha.pdb
+C:\Users\38985141880\Desktop\lendo-usuario-e-senha\obj\Debug\net7.0\lendo-usuario-e-senha.csproj.AssemblyReference.cache
+C:\Users\38985141880\Desktop\lendo-usuario-e-senha\obj\Debug\net7.0\lendo-usuario-e-senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38985141880\Desktop\lendo-usuario-e-senha\obj\Debug\net7.0\lendo-usuario-e-senha.AssemblyInfoInputs.cache
+C:\Users\38985141880\Desktop\lendo-usuario-e-senha\obj\Debug\net7.0\lendo-usuario-e-senha.AssemblyInfo.cs
+C:\Users\38985141880\Desktop\lendo-usuario-e-senha\obj\Debug\net7.0\lendo-usuario-e-senha.csproj.CoreCompileInputs.cache
+C:\Users\38985141880\Desktop\lendo-usuario-e-senha\obj\Debug\net7.0\lendo-usuario-e-senha.dll
+C:\Users\38985141880\Desktop\lendo-usuario-e-senha\obj\Debug\net7.0\refint\lendo-usuario-e-senha.dll
+C:\Users\38985141880\Desktop\lendo-usuario-e-senha\obj\Debug\net7.0\lendo-usuario-e-senha.pdb
+C:\Users\38985141880\Desktop\lendo-usuario-e-senha\obj\Debug\net7.0\lendo-usuario-e-senha.genruntimeconfig.cache
+C:\Users\38985141880\Desktop\lendo-usuario-e-senha\obj\Debug\net7.0\ref\lendo-usuario-e-senha.dll
